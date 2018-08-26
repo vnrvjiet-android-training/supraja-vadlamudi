@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">loginform</string>
+    <string name="successfully_logged_in">Successfully Logged In</string>
+</resources>
